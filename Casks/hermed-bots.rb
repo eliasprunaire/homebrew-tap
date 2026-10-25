@@ -1,6 +1,6 @@
 cask "hermed-bots" do
-  version "0.1.2"
-  sha256 "b78d3d7de27033e206a6a77c283cda84ff0f49c7c2e94d7521e9f0d311b3a39f"
+  version "0.1.3"
+  sha256 "66301572409b1dfbbed9947fd7824a203494ac70d275ac1da97f7fb321443a7d"
 
   url "https://github.com/eliasprunaire/hermed-bots-releases/releases/download/v#{version}/HermedBots-#{version}.zip"
   name "Hermed Bots"
